@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-mergeDebugResources-48:/layout/fragment_login.xml",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-mergeDebugResources-48:/layout/fragment_duck.xml",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/fragment_duck.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-mergeDebugResources-48:/layout/fragment_register.xml",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-mergeDebugResources-48:/layout/fragment_wire.xml",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/fragment_wire.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-mergeDebugResources-48:/layout/item_wire.xml",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/item_wire.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-mergeDebugResources-48:/layout/fragment_simpsons.xml",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/fragment_simpsons.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-mergeDebugResources-48:/layout/item_duck.xml",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/item_duck.xml"
+    },
+    {
+        "merged": "com.example.awrealestate.app-mergeDebugResources-48:/layout/fragment_simpsons.xml",
+        "source": "com.example.awrealestate.app-main-51:/layout/fragment_simpsons.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-mergeDebugResources-48:/layout/item_simpsons.xml",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/item_simpsons.xml"
+    }
+]

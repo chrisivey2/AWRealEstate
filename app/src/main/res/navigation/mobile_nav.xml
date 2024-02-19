@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_login">
+
+    <fragment
+        android:id="@+id/nav_login"
+        android:name="com.example.awrealestate.auth.LoginFragment"
+        android:label="Login"
+        tools:layout="@layout/fragment_login">
+        <action
+            android:id="@+id/action_nav_auth_to_nav_duck"
+            app:destination="@id/nav_duck"
+            app:popUpTo="@id/nav_duck"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_nav_login_to_nav_register"
+            app:destination="@id/nav_register"
+            app:popUpTo="@id/nav_duck"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_duck"
+        android:name="com.example.awrealestate.duck.DuckFragment"
+        android:label="Duck"
+        tools:layout="@layout/fragment_duck" />
+
+    <fragment
+        android:id="@+id/nav_register"
+        android:name="com.example.awrealestate.auth.RegisterFragment"
+        android:label="Register"
+        tools:layout="@layout/fragment_register" >
+        <action
+            android:id="@+id/action_nav_register_to_nav_duck"
+            app:destination="@id/nav_login"
+            app:popUpTo="@id/nav_duck"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/nav_simpsons"
+        android:name="com.example.awrealestate.simpsons.SimpsonsFragment"
+        android:label="The Simpsons Characters"
+        tools:layout="@layout/fragment_simpsons" >
+        <action
+            android:id="@+id/action_nav_register_to_nav_duck"
+            app:destination="@id/nav_duck"
+            app:popUpTo="@id/nav_simpsons"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/nav_wire"
+        android:name="com.example.awrealestate.wire.WireFragment"
+        android:label="The Wire Characters"
+        tools:layout="@layout/fragment_wire" >
+        <action
+            android:id="@+id/action_nav_register_to_nav_duck"
+            app:destination="@id/nav_duck"
+            app:popUpTo="@id/nav_wire"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+
+
+
+
+
+</navigation>

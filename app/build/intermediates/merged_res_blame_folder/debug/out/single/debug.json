@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/layout_fragment_login.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/layout_fragment_duck.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/fragment_duck.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/layout_fragment_simpsons.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/fragment_simpsons.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/layout_activity_main.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/layout_item_simpsons.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/item_simpsons.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/layout_fragment_wire.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/fragment_wire.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/layout_item_wire.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/item_wire.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/drawable_ic_character_image.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/drawable/ic_character_image.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/navigation_mobile_nav.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/navigation/mobile_nav.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/xml_backup_rules.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/layout_fragment_register.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.example.awrealestate.app-merged_res-49:/layout_fragment_simpsons.xml.flat",
+        "source": "com.example.awrealestate.app-main-51:/layout/fragment_simpsons.xml"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-merged_res-49:/layout_item_duck.xml.flat",
+        "source": "/Users/christopherivey/.gradle/daemon/8.2/com.example.awrealestate.app-main-51:/layout/item_duck.xml"
+    }
+]

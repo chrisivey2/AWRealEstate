@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="dim_100dp">100dp</dimen>
+    <dimen name="dim_160dp">160dp</dimen>
+    <dimen name="dim_200dp">200dp</dimen>
+    <dimen name="dim_411dp">411dp</dimen>
+    <dimen name="match_constraint">0dp</dimen>
+    <dimen name="space_12dp">12dp</dimen>
+    <dimen name="space_16dp">16dp</dimen>
+    <dimen name="space_20dp">20dp</dimen>
+    <dimen name="space_24dp">24dp</dimen>
+    <dimen name="space_28dp">28dp</dimen>
+    <dimen name="space_36dp">36dp</dimen>
+    <dimen name="space_40dp">40dp</dimen>
+    <dimen name="space_48dp">48dp</dimen>
+    <dimen name="space_4dp">4dp</dimen>
+    <dimen name="space_64dp">64dp</dimen>
+    <dimen name="space_8dp">8dp</dimen>
+    <dimen name="text_12sp">12sp</dimen>
+    <dimen name="text_16sp">16sp</dimen>
+    <dimen name="text_20sp">20sp</dimen>
+    <dimen name="text_24sp">24sp</dimen>
+    <dimen name="text_28sp">28sp</dimen>
+    <dimen name="text_32sp">32sp</dimen>
+    <string name="app_name">AW Real Estate</string>
+    <style name="Base.Theme.AWRealEstate" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        
+    </style>
+    <style name="Theme.AWRealEstate" parent="Base.Theme.AWRealEstate"/>
+</resources>

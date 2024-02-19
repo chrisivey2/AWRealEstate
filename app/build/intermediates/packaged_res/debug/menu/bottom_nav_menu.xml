@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_duck"
+        android:title="Duck Network" />
+
+    <item
+        android:id="@+id/nav_simpsons"
+        android:title="The Simpsons" />
+
+    <item
+        android:id="@+id/nav_wire"
+        android:title="The Wire" />
+
+</menu>
